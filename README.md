@@ -1,4 +1,4 @@
-Sales Dashboard Development Using Power BI
+                                    Sales Dashboard Development Using Power BI
 
 This project focused on developing a comprehensive sales dashboard using Power BI, with the objective of providing clear, actionable insights into sales performance through dynamic visualizations and user-friendly interactivity.
 
@@ -15,6 +15,8 @@ A donut chart was incorporated to visually represent the distribution of sales d
 To represent sales distribution geographically, map visuals were integrated into the dashboard. These maps offered a spatial perspective, allowing users to view sales performance by region, city, or country. This geographic visualization was invaluable for identifying regional sales strengths and weaknesses, supporting strategic planning for market expansion or targeted marketing efforts.
 
 Overall, this project successfully developed a dynamic and interactive sales dashboard using Power BI. By combining advanced data modeling, diverse visualization techniques, and user-friendly features, the dashboard provided a powerful tool for analyzing sales performance, uncovering insights, and driving business growth.
+
+![Image Alt]()
 
 
 

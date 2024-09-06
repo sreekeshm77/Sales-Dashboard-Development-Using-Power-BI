@@ -16,7 +16,7 @@ To represent sales distribution geographically, map visuals were integrated into
 
 Overall, this project successfully developed a dynamic and interactive sales dashboard using Power BI. By combining advanced data modeling, diverse visualization techniques, and user-friendly features, the dashboard provided a powerful tool for analyzing sales performance, uncovering insights, and driving business growth.
 
-![Image Alt]()
+![Image Alt](https://github.com/sreekeshm77/Sales-Dashboard-Development-Using-Power-BI/blob/8eac2bfaaae2febfbd52645f5a118af3a86c8c97/Screenshot%202024-09-03%20152541.png)
 
 
 

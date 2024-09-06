@@ -1,4 +1,6 @@
-                                    Sales Dashboard Development Using Power BI
+Sales Dashboard Development Using Power BI
+
+___________________________________________________________________________________________________________________________________________________________________________
 
 This project focused on developing a comprehensive sales dashboard using Power BI, with the objective of providing clear, actionable insights into sales performance through dynamic visualizations and user-friendly interactivity.
 
